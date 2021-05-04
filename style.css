@@ -1,0 +1,25 @@
+.language {
+  color: rgb(197, 0, 0);
+  margin-right: 5px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.language:active {
+  color: gray;
+}
+.dance {
+  width: 75%;
+}
+.dance img {
+  max-width: 100%;
+  height: auto;
+}
+.timeline {
+  margin-left: 1.2em;
+}
+.contacts li a.twitter:hover {
+  color: #609dff;
+}
+.contacts li a.instagram:hover {
+  color: #c9385f;
+}
