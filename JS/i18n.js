@@ -1,7 +1,7 @@
 const i18n = {
     allowLang: ["en", "ua"],
     defaultLang: "", 
-    langPath: "./js/lang/",
+    langPath: "./JS/lang/",
 
     getLang() {
         const url = new URL(window.location);
